@@ -1,0 +1,2 @@
+# Fat-Tail-Risk-Modeling-and-Implied-Volatility-Surface-Analysis
+This project looks at what happens when you stop assuming financial returns are normally distributed. Using Bitcoin price history and S&amp;P 500 options data, it covers distribution fitting, tail risk estimation (VaR/CVaR), implied volatility curve construction, VIX replication, and extracting risk-neutral moments from the options market.
