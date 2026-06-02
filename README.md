@@ -8,8 +8,9 @@ The through-line is practical: standard models that assume normality tend to und
 
 ```
 ├── FinancialDataAnalysis.ipynb             # Main analysis notebook
-├── bitcoin_data.csv                        # Bitcoin adjusted close prices
-└── spx-options-exp-2025-03-13-weekly.csv  # SPX options chain (exp. 2025-03-13)
+└── data/
+    ├── bitcoin_data.csv                    # Bitcoin adjusted close prices
+    └── spx-options-exp-2025-03-13-weekly.csv  # SPX options chain (exp. 2025-03-13)
 ```
 
 ## Analysis
